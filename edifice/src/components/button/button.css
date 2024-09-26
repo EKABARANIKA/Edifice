@@ -1,0 +1,24 @@
+.Hero-Btn{
+    width: 150px;
+    height: 50px;
+    color: #008385;
+    font-size: 20px;
+    font-weight: bold;
+    background: transparent;
+    border: 1px solid #008385;
+    cursor: pointer;
+}
+.Hero-Btn:hover{
+    background-color: #008385;
+    color: aliceblue;
+}
+.Btn{
+    width: 150px;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    background: #54BD95;
+    border: 1px solid #54BD95;
+    cursor: pointer;
+}

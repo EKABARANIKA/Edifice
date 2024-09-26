@@ -1,0 +1,26 @@
+
+.overAll-Contact-Header header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    height: 45px;
+    padding: 1rem;
+    gap: 4rem;
+}
+.Contact-logo{
+    width: 180px;
+    height: 30px;
+}
+.Contact-navBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    color: white;
+    font-weight: 600;
+}
+.Contact-navBar span:hover{
+    color: #BFF747;
+    cursor: pointer;
+}
